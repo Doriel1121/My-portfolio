@@ -35,7 +35,7 @@ export const projectsData = [
     info: 'To make work much easier and clearer to both manager and employee.',
     info2:
       'as simple as that : manager make a board with tasks and his board"s members (his employees) needs to complete those tasks. ',
-    url: '',
+    url: 'https://souto.vercel.app/',
     repo: 'https://github.com/Doriel1121/souto.git', // if no repo, the button will not show up
   },
   {
